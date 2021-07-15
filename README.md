@@ -39,7 +39,6 @@
     <li><h5>Login</h5>http://127.0.0.1:8000/api/login</li>
     <li><h5>Add Comment</h5>http://127.0.0.1:8000/api/courses/{id}/comment</li>
     <li><h5>Enroll Course</h5>http://127.0.0.1:8000/api/courses/{id}/enroll</li>
-    <li><h5>show all Courses and comments</h5>http://127.0.0.1:8000/api/courses/</li>
     <li><h5>Show enrolled Courses</h5>http://127.0.0.1:8000/api/courses</li>
 </ul>
 
