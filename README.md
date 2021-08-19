@@ -22,7 +22,7 @@
     <li>Task Scheduling(notify:students who not logged in for month)</li>
 </ul>
 <h4>Installion && Setup</h4>
-<li>Clone the repository: git clone https://github.com/sarahelsagheir/jwt.git</li>
+<li>Clone the repository</li>
 <li>composer update &&npm install </li>
 <li>cp .env.example .env gedit .env</li>
 <li>Sign up at mailtrap.io &&Place the settings in the demo inbox in your .env file</li>
